@@ -8,6 +8,4 @@
 ### 📫 How to reach me: 
 - [💼 My LinkedIn](https://www.linkedin.com/in/adiletbaim/)
 - [📧 My Mail](mailto:adiletbaimyrza@gmail.com)
-- [👨‍💻 My LeetCode](https://leetcode.com/adiletBaimyrza/)
-
-#### 🙂 Wish you a happy stay on my profile page! 
+- [👨‍💻 My LeetCode](https://leetcode.com/adiletBaimyrza/) 
