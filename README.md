@@ -1,9 +1,10 @@
-### 👨‍🎓Computer Science student at the University of Lodz | Python Enthusiast
+### About me
+---
+#### 👨‍🎓Computer Science student at the University of Lodz 
+#### 🐍Python Enthusiast
 
-#### 🚀Check out my projects down below!
-
-
-## My Statistics
+### My Statistics
+---
 
 <br/>
 <p align="left">
@@ -12,4 +13,5 @@
     <img width="49.5%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdiletBaimyrza&theme=dark&hide_border=true" />
   </a>
 </p>
-<br>
+
+👇Check out my projects down below
