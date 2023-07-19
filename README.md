@@ -27,8 +27,8 @@
 ### My Statistics
 ---
 <br>
-<img width="49.5%" height="100%" src="https://github-readme-stats.vercel.app/api?username=AdiletBaimyrza&show_icons=true&theme=dark&hide_border=true" />
-<img width="49.5%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdiletBaimyrza&theme=dark&hide_border=true" />
+<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=AdiletBaimyrza&show_icons=true&theme=dark&hide_border=true" />
+<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdiletBaimyrza&theme=dark&hide_border=true" />
 </p>
 
 👇Check out my projects down below
