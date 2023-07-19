@@ -1,8 +1,7 @@
-## Adilet Baimyrza
+### 👨‍🎓Computer Science student at the University of Lodz | Python Enthusiast
 
-#### I’m a Computer Science Student at the University of Lodz and a Python Enthusiast.
+#### 🚀Check out my projects down below!
 
-#### Check out my Python projects below!
 
 ## My Statistics
 
