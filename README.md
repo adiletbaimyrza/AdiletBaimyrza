@@ -1,10 +1,16 @@
-### Hi there 👋
-#### My name is Adilet and...
+## Adilet Baimyrza
 
-- 👨‍🎓 I’m a Computer Science Student at the University of Lodz.
-- 💻 I’m currently learning **Algorithms and Data Structures**, **Software Architechture**, **Flask**, and **JavaScript**. 
-- 🚀 I use **Python** and **JavaScript** on a daily basis, sometimes **C++**, and occasionally **BASH**.
+#### I’m a Computer Science Student at the University of Lodz and a Python Enthusiast.
 
-### 📫 How to reach me: 
-- [💼 My LinkedIn](https://www.linkedin.com/in/adiletbaim/)
-- [📧 My Mail](mailto:adiletbaimyrza@gmail.com) 
+#### Check out my Python projects below!
+
+## My Statistics
+
+<br/>
+<p align="left">
+  <a href="https://AdiletBaimyrza.dev/">
+    <img width="49.5%" height="100%" src="https://github-readme-stats.vercel.app/api?username=AdiletBaimyrza&show_icons=true&theme=dark&hide_border=true" />
+    <img width="49.5%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdiletBaimyrza&theme=dark&hide_border=true" />
+  </a>
+</p>
+<br>
