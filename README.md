@@ -24,7 +24,7 @@
     <img src=https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png height=40>
 <img src=https://img.icons8.com/?size=512&id=84280&format=png height=40>
             <img src=https://cdn.worldvectorlogo.com/logos/aws-rds.svg height=40>
-            <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjWE5tmU08dSpyj33WumdOYw49hPN9Hv_bLw&usqp=CAU height=40>
+            <img src=https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png height=40>
 </div>
 
 ### My Statistics
