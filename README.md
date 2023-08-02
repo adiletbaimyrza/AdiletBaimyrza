@@ -1,4 +1,4 @@
-### Hi, there👋
+### Hi, there! I'm Adilet👋
 ---
 #### I am a Computer Science student👨‍🎓 at the University of Lodz and a Python Enthusiast🐍
 
@@ -6,8 +6,10 @@
 ---
 <br>
 
-<div style="display: flex;
-            justify-content: space-evenly;">
+<div style="
+            display: flex;
+            justify-content: space-evenly;"
+>
     <img src=https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png height=40>
     <img style="color: 'white'" src=https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png height=40>
     <img src=https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png height=40>
@@ -21,7 +23,7 @@
     <img src=https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png height=40>
     <img src=https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png height=40>
     <img src=https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png height=40>
-<img src=https://img.icons8.com/?size=512&id=84280&format=png height=40>
+            <img src=https://img.icons8.com/?size=512&id=84280&format=png height=40>
             <img src=https://cdn.worldvectorlogo.com/logos/aws-rds.svg height=40>
             <img src=https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png height=40>
 </div>
