@@ -32,6 +32,6 @@
 ---
 <br>
 <div style="display: flex; justify-content: space-between">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AdiletBaimyrza&theme=highcontrast&border_radius=3)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/demo/?user=AdiletBaimyrza&theme=highcontrast&hide_border=false&border_radius=3&locale=en&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&type=svg&background-type=solid&properties=background"/>
 </div>
 👇Check out my projects down below
