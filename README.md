@@ -32,5 +32,5 @@
 ---
 <br>
 <div style="display: flex; justify-content: space-between">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AdiletBaimyrza&theme=highcontrast&border_radius=3)](https://git.io/streak-stats)
+<img src=https://github-readme-streak-stats.herokuapp.com/?user=AdiletBaimyrza&theme=highcontrast&border_radius=3)](https://git.io/streak-stats>
 👇Check out my projects down below
