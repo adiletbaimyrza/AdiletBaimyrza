@@ -32,7 +32,6 @@
 ---
 <br>
 <div style="display: flex; justify-content: space-between">
-<img width="49.5%" src="https://github-readme-stats.vercel.app/?username=AdiletBaimyrza&show_icons=true&theme=dark&hide_border=true" />
 <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdiletBaimyrza&theme=dark&hide_border=true" />
 </div>
 👇Check out my projects down below
