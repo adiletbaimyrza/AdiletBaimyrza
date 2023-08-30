@@ -1,6 +1,6 @@
 ### Hi, there! I'm Adilet👋
 ---
-#### I am a Computer Science student👨‍🎓 at the University of Lodz and a Python Enthusiast🐍
+#### I am a Computer Science student👨‍🎓 at the University of Lodz and a Software Engineer🐍
 
 ### My Tech Stack
 ---
