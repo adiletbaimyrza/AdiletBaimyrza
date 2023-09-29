@@ -29,6 +29,8 @@
 </div>
 
 ### My Statistics
+![](https://raw.githubusercontent.com/AdiletBaimyrza/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/AdiletBaimyrza/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ---
 <br>
 <div style="display: flex; justify-content: space-between">
