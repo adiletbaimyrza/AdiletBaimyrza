@@ -24,8 +24,7 @@
     <img src=https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png height=40>
     <img src=https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png height=40>
     <img src=https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png height=40>
-    
-            <img src=https://img.icons8.com/?size=512&id=84280&format=png height=40>
+    <img src=https://img.icons8.com/?size=512&id=84280&format=png height=40>
             <img src=https://cdn.worldvectorlogo.com/logos/aws-rds.svg height=40>
             
 </div>
