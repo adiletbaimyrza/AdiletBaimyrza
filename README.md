@@ -1,6 +1,6 @@
 ### Hi, there! I'm Adilet👋
 ---
-#### I am a Computer Science student at the University of Lodz and a Junior Front-end Engineer.
+#### I am a Front-end Developer & UX/UI Designer.
 
 ### My Tech Stack
 ---
