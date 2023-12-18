@@ -1,11 +1,12 @@
 ### Hi, there! I'm Adilet👋
 #### Front-end Developer & UX/UI Designer
 ---
-As a Front-end Developer and UX/UI Designer, I am deeply passionate about web development, dedicating a significant part of my life to mastering the craft. My commitment lies in refining details, as I firmly believe they are the cornerstone of exceptional user experiences. I have a keen eye for beautiful designs and strive for continuous improvement in this dynamic field.
+As a Front-end Developer and UX/UI Designer, I am passionate about web development, and I dedicate a significant part of my life to it. I am commited to details, because I believe that details make a difference in creating elegant user experiences.
 
-I take immense pride in delivering high-quality work and am always eager to take on challenging projects that push my boundaries. My expertise includes [mention specific technologies or frameworks you specialize in], and I am constantly honing my skills to stay at the forefront of industry trends.
+I take pride in everything I do, and am always eager to take on challenging projects that push me to my limits. My skillset includes JavaScript, Python, React, HTML5 and CSS, and it is exponentially growing 😉.
 
-Welcome to my GitHub repository, where you can explore a collection of my projects showcasing my dedication to creating seamless and visually appealing web experiences. I look forward to the opportunity to contribute my skills and passion to your projects.
+Welcome to my GitHub repo.
+
 ### My Tech Stack
 ---
 <br>
