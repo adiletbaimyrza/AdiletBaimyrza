@@ -42,4 +42,5 @@ Welcome to my GitHub repo.
 <div style="display: flex; justify-content: space-between">
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdiletBaimyrza&theme=dark&hide_border=true" />
 </div>
-👇Check out my projects down below 
+
+Check out my projects down below 👇.
