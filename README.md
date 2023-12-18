@@ -2,6 +2,8 @@
 ---
 #### I am a Front-end Developer & UX/UI Designer.
 
+I am passionate about web development and I dedicate a huge part of my life to it. I spend a lot of time refining details, because I believe that they make a difference. I appreciate beautiful designs, and I try to improve every day in this area. I take great pride in everything I do and am ready to work on challenging projects. Here you can find a collection of my projects, welcome to my GitHub repo.
+
 ### My Tech Stack
 ---
 <br>
