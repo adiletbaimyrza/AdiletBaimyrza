@@ -29,13 +29,6 @@ Welcome to my GitHub repo.
             <img src=https://cdn.worldvectorlogo.com/logos/aws-rds.svg height=40>
             
 </div>
-
-### My Statistics
-![](https://raw.githubusercontent.com/AdiletBaimyrza/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/AdiletBaimyrza/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
-
-<br>
 <div style="display: flex; justify-content: space-between">
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdiletBaimyrza&theme=dark&hide_border=true" />
 </div>
