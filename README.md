@@ -4,8 +4,6 @@ I am a Front-end Developer and a future Computer Science graduate.
 I take pride in everything I do and am always eager to take on challenging projects.
 My skill set includes **TypeScript, JavaScript, React, HTML5, and CSS**.
 Welcome to my GitHub repo.
-
-### My Tech Stack
 ---
 <br>
 <div style="display: flex; justify-content: space-between">
